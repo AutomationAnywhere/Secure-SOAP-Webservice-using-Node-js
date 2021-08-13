@@ -25,6 +25,6 @@ curl -v -s -k --key snort-key.pem --cert snort-crt.pem https://localhost:4433
 
 Note that if you change the certificate, you will need to completely close Chrome (and possibly need to kill the task) in order to see the dialog again.
 
-Certificate Revocation is left as a future exercise. 
+
 
 
