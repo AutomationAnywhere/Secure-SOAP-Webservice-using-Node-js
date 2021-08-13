@@ -1,0 +1,7 @@
+.idea
+node_modules
+certs/*.pem
+certs/*.srl
+certs/*.log
+certs/*.pfx
+
